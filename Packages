@@ -111,11 +111,11 @@ libc: yes
 
 Package: linux-kernel
 Version: 1.0
-Type: dir
+Type: kernel
 Filename: pool/main/linux-kernel.tar.gz
 Size: 23739968
 MD5sum: 24d9bb8d58b430c0079548da066141f8
-DestDir: bin
+DestDir: /
 libc: no
 
 Package: lsblk
@@ -206,7 +206,7 @@ Filename: pool/main/xorg.tar.gz
 Size: 16180505
 MD5sum: f17bd948402654304369294b30cce7ee
 DestDir: bin
-libc: no
+libc: so
 
 
 # Total packages: 23
