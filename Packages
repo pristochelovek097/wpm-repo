@@ -412,8 +412,8 @@ Package: xorg
 Version: 1.0
 Type: dir
 Filename: pool/main/xorg.tar.gz
-Size: 16180505
-MD5sum: f17bd948402654304369294b30cce7ee
+Size: 69877176
+MD5sum: 237ab832c506ade331bec464038c1d30
 DestDir: bin
 libc: so
 
