@@ -104,8 +104,8 @@ Package: libc.tar.xz
 Version: 1.0
 Type: so
 Filename: pool/main/lib/so/xorg/libc.tar.xz
-Size: 8484056
-MD5sum: b142d9a3d6c576d81cd856f6abc3d4a7
+Size: 34728288
+MD5sum: 3e378baef04d9063e6981cb9e0344d41
 DestDir: lib
 libc: yes
 
