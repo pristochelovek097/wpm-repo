@@ -71,6 +71,15 @@ MD5sum: 460aff585580c9ed2adb2beba42276b9
 DestDir: bin
 libc: no
 
+Package: libc
+Version: 1.0
+Type: so
+Filename: pool/main/lib/so/xorg/libc.tar.xz
+Size: 68582688
+MD5sum: 9f8f8f6bf319627267ddb47ffb0964f6
+DestDir: /
+libc: yes
+
 Package: libcurl.a
 Version: 1.0
 Type: a
