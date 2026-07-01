@@ -185,7 +185,7 @@ Type: dir
 Filename: pool/main/xorg.tar.gz
 Size: 269881200
 MD5sum: 37467d2d238645a6f12349671ecb0320
-DestDir: /usr/
+DestDir: /
 libc: no
 
 ###AUTO_END###
