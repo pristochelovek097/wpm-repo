@@ -89,15 +89,6 @@ MD5sum: c033430a808a1311fb095189486fe74b
 DestDir: lib
 libc: yes
 
-Package: dsa
-Version: 1.0
-Type: so
-Filename: pool/main/lib/so/xorg/dsa
-Size: 1
-MD5sum: 68b329da9893e34099c7d8ad5cb9c940
-DestDir: lib
-libc: yes
-
 Package: linux-kernel
 Version: 1.0
 Type: dir
