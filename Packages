@@ -80,15 +80,6 @@ MD5sum: 1faea57730563561109d0efaee07d947
 DestDir: lib
 libc: yes
 
-Package: libcurl.la
-Version: 1.0
-Type: la
-Filename: pool/main/lib/libcurl.la
-Size: 998
-MD5sum: 2468c70860099284ed15b8e384f415a7
-DestDir: lib
-libc: no
-
 Package: ld-musl-x86_64.so.1
 Version: 1.0
 Type: so
